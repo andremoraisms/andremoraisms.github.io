@@ -54,20 +54,6 @@ window.SITE_DATA = {
       "featured": true
     },
     {
-      "id": "p2",
-      "title": "StorageHub",
-      "desc": "Painel que acompanha em tempo real o armazenamento de Google Drive, iCloud, notebook, iPhone e iPad num só lugar.",
-      "ai": true,
-      "category": "web",
-      "status": "live",
-      "year": "2026",
-      "stack": "React, Firebase",
-      "url": "https://storagehub.com.br/",
-      "repo": "",
-      "image": "assets/cover-storagehub.svg",
-      "featured": false
-    },
-    {
       "id": "p3",
       "title": "Bitstock",
       "desc": "Controle de estoque de TI. Acompanha consumíveis pelo saldo e equipamentos por unidade, registra cada entrada, saída, empréstimo e manutenção, avisa sobre estoque mínimo e empréstimos atrasados e gera relatórios em PDF, Excel e CSV e termos de responsabilidade.",
@@ -79,6 +65,20 @@ window.SITE_DATA = {
       "url": "",
       "repo": "",
       "image": "assets/cover-bitstock.png",
+      "featured": false
+    },
+    {
+      "id": "p2",
+      "title": "StorageHub",
+      "desc": "Painel que acompanha em tempo real o armazenamento de Google Drive, iCloud, notebook, iPhone e iPad num só lugar.",
+      "ai": true,
+      "category": "web",
+      "status": "live",
+      "year": "2026",
+      "stack": "React, Firebase",
+      "url": "https://storagehub.com.br/",
+      "repo": "",
+      "image": "assets/cover-storagehub.svg",
       "featured": false
     },
     {
