@@ -12,7 +12,7 @@ Desenvolvedor front-end. Transformo problemas do dia a dia em produtos web, junt
 | [StorageHub](https://storagehub.com.br) | Painel que acompanha o armazenamento de Google Drive, iCloud, notebook, iPhone e iPad num só lugar | No ar |
 | [Gestum](https://gestum-26315.web.app) | App de finanças pessoais com entradas, gastos, assinaturas, investimentos e metas | No ar |
 | Bitstock | Controle de estoque de TI com empréstimos, alertas de estoque mínimo e relatórios | Em desenvolvimento |
-| Clube do Desconto | Landing page que reúne grupos de promoções no WhatsApp | Em desenvolvimento |
+| [Clube do Desconto](https://clube-do-desconto-2a65b.web.app) | Landing page do grupo de promoções no WhatsApp com ofertas do Mercado Livre | No ar |
 
 ## Sobre este site
 

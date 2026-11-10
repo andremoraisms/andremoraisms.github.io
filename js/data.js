@@ -25,7 +25,7 @@ window.SITE_DATA = {
     "ctaLabel": "Ver meu GitHub",
     "ctaUrl": "https://github.com/andremoraisms"
   },
-  "updatedAt": "2026-10-29T12:00:00",
+  "updatedAt": "2026-11-09T12:00:00",
   "links": [
     {
       "id": "l1",
@@ -84,7 +84,7 @@ window.SITE_DATA = {
     {
       "id": "p3",
       "title": "Bitstock",
-      "desc": "Controle de estoque de TI. Acompanha consumíveis pelo saldo e equipamentos por unidade, registra cada entrada, saída, empréstimo e manutenção, avisa sobre estoque mínimo e empréstimos atrasados e gera relatórios em PDF, Excel e CSV e termos de responsabilidade.",
+      "desc": "Gestão de ativos de TI com rastreio de cada equipamento por número de série e patrimônio. Registra o histórico completo do aparelho, com trilha de auditoria, e emite o termo de responsabilidade em PDF na entrega ao colaborador.",
       "ai": true,
       "category": "web",
       "status": "dev",
@@ -98,15 +98,15 @@ window.SITE_DATA = {
     {
       "id": "p5",
       "title": "Clube do Desconto",
-      "desc": "Landing page que reúne grupos de promoções no WhatsApp para quem caça desconto.",
+      "desc": "Grupo de promoções no WhatsApp com ofertas e cupons do Mercado Livre selecionados todos os dias. Entrada grátis e sem cadastro.",
       "ai": false,
       "category": "outro",
-      "status": "dev",
+      "status": "live",
       "year": "2026",
-      "stack": "HTML, CSS, JavaScript, Firebase Hosting",
-      "url": "",
+      "stack": "HTML, CSS, JavaScript, Firebase Hosting, GA4",
+      "url": "https://clube-do-desconto-2a65b.web.app",
       "repo": "",
-      "image": "",
+      "image": "assets/cover-clube-do-desconto.png",
       "featured": false
     }
   ]
